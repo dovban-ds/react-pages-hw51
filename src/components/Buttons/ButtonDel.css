@@ -1,0 +1,11 @@
+button {
+  font-weight: 600;
+  background-color: #a40303;
+  color: aliceblue;
+  transition: background-color 1s;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #4c0101;
+}

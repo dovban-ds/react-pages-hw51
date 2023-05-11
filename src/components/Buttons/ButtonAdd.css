@@ -1,0 +1,13 @@
+.green {
+  background-color: #05ad54;
+  font-weight: 600;
+  color: aliceblue;
+  transition: background-color 1s;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+.green:hover {
+  cursor: pointer;
+  background-color: #037538;
+}
